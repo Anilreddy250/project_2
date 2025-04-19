@@ -1,3 +1,3 @@
 #DEMO REPO
 
-something like inrodution to the project...
+some demo setup for git hub
